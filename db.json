@@ -1,0 +1,19 @@
+{
+  "causas": [
+    {
+      "id": 1,
+      "title": "Causa 1",
+      "ciudadanos": 1176
+    },
+    {
+      "id": 2,
+      "title": "Causa 2",
+      "ciudadanos": 1276
+    },
+    {
+      "id": 3,
+      "title": "Causa 3",
+      "ciudadanos": 1376
+    }
+  ]
+}
